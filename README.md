@@ -16,8 +16,16 @@
 
 ### ✅ 1. 下载屏蔽名单 JSON 文件
 - 点击或右键 **另存为** 下载最新屏蔽名单（格式已匹配 Mass Block Twitter 插件要求）：  
-  **[`Accounts_based_in_China-block-list.json`](./block-lists/Accounts_based_in_China-block-list.jsonwitter 插件
-- **Chrome 用户**：访问 [Mass Block Twitter - Chrome Web Store](https://chrome.google.com/webstoreitter - Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/mass-blockst）并导入 JSON 数据
+  **[`Accounts_based_in_China-block-list.json`](./block-lists/Accounts_based_in_China-block-listock Twitter 插件
+- **Chrome 用户**：访问 [Mass Block Twitter - Chrome Web Store](https://chromewebstore.google.com/detail/mass-block-twitter/eaghpebepefbcadjdppjjopoagckdhej)  
+- **Firefox 用户**：访问 [Mass Block Twitter - Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/mass-block-twitter/)  
+
+安装完成后，浏览器工具栏会出现插件图标。  
+更多信息请查看 [GitHub 项目主页](https://github.com/rxliuli/mass-block-twitter)。
+
+---
+
+### ✅ 3. 创建审核列表（Moderation List）并导入 JSON 数据
 1. 点击浏览器的 **Mass Block Twitter 插件图标**，进入主界面  
 2. 找到 **“Moderation Lists”（审核列表）** 栏目，点击 **“Create new list”（新建审核列表）**  
 3. 自定义列表名称（如 `中国IP账号黑名单`）及描述  
@@ -42,3 +50,4 @@
 
 ---
 
+## 📂 仓库结构 / Repository Structure
