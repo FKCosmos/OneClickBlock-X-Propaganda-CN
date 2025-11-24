@@ -14,28 +14,34 @@
 
 ## 🚀 快速上手 / Quick Start
 
-### ✅ 1. 下载屏蔽名单 JSON 文件
-- 点击或右键 **另存为** 下载最新屏蔽名单（格式已匹配 Mass Block Twitter 插件要求）：  
-  **[`Accounts_based_in_China-block-list.json`](./block-lists/Accounts_based_in_China-block-listock Twitter 插件
-- **Chrome 用户**：访问 [Mass Block Twitter - Chrome Web Store](https://chromewebstore.google.com/detail/mass-block-twitter/eaghpebepefbcadjdppjjopoagckdhej)  
-- **Firefox 用户**：访问 [Mass Block Twitter - Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/mass-block-twitter/)  
+### ✅ **1. 下载屏蔽名单 JSON 文件**
+直接从本仓库下载最新屏蔽名单（格式已匹配 Mass Block Twitter 插件要求）：  
+**[点击下载 Accounts_based_in_China-block-list.json](./block-lists/Accounts_based_in_China-block-list.json Twitter 插件**
+请根据你的浏览器选择对应的插件安装地址：
+
+- **Chrome 用户**：访问  
+  [👉 Mass Block Twitter - Chrome Web Store](https://chromewebstore.google.com/detail/mass-block-twitter/eaghpebepefbcadjdppjjopoagckdhej)
+
+- **Firefox 用户**：访问  
+  [👉 Mass Block Twitter - Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/mass-block-twitter/)
 
 安装完成后，浏览器工具栏会出现插件图标。  
-更多信息请查看 [GitHub 项目主页](https://github.com/rxliuli/mass-block-twitter)。
+**更多信息请查看 Mass Block Twitter 插件的官方 GitHub 项目主页：**  
+[👉 GitHub: rxliuli/mass-block-twitter](https://github.com/rxliuli/mass-block-twitter)
 
 ---
 
-### ✅ 3. 创建审核列表（Moderation List）并导入 JSON 数据
-1. 点击浏览器的 **Mass Block Twitter 插件图标**，进入主界面  
+### ✅ **3. 创建审核列表（Moderation List）并导入 JSON 数据**
+1. **点击浏览器的 Mass Block Twitter 插件图标**，进入主界面  
 2. 找到 **“Moderation Lists”（审核列表）** 栏目，点击 **“Create new list”（新建审核列表）**  
-3. 自定义列表名称（如 `中国IP账号黑名单`）及描述  
+3. **自定义列表名称**（如 `中国IP账号黑名单`）及描述  
 4. 在新建的审核列表界面，选择 **“Import”** 或 **“Add Users”**  
-5. 选择本地已下载的 `Accounts_based_in_China-block-list.json` 文件进行导入  
+5. **选择本地已下载的 `Accounts_based_in_China-block-list.json` 文件进行导入**  
 6. 插件会自动识别并加载所有待屏蔽账号
 
 ---
 
-### ✅ 4. 订阅审核列表并批量屏蔽
+### ✅ **4. 订阅审核列表并批量屏蔽**
 - 导入完成后，页面将显示全部名单并支持批量操作  
 - 可一键 **“Block All”** 或分批拉黑所有账号（**建议分批处理防止 API 限制，单批不超过 500 账号**）  
 - 订阅该审核列表后，未来有新增黑名单账号时只需同步更新 JSON 并重新导入即可
@@ -50,4 +56,3 @@
 
 ---
 
-## 📂 仓库结构 / Repository Structure
