@@ -14,45 +14,46 @@
 
 ## 🚀 快速上手 / Quick Start
 
-### ✅ **1. 下载屏蔽名单 JSON 文件**
+### ✅ **步骤 1：下载屏蔽名单**
 直接从本仓库下载最新屏蔽名单（格式已匹配 Mass Block Twitter 插件要求）：  
-**[点击下载 Accounts_based_in_China-block-list.json](./block-lists/Accounts_based_in_China-block-list.json Twitter 插件**
-请根据你的浏览器选择对应的插件安装地址：
+**👉 [点击下载 Accounts_based_in_China-block-list.json](./block-lists/Accounts_based_in_China-block-list.json Twitter 插件**
+根据你的浏览器选择对应的安装地址：
 
-- **Chrome 用户**：访问  
-  [👉 Mass Block Twitter - Chrome Web Store](https://chromewebstore.google.com/detail/mass-block-twitter/eaghpebepefbcadjdppjjopoagckdhej)
+- **Chrome 用户**  
+  👉 [Mass Block Twitter - Chrome Web Store](https://chromewebstore.google.com/detail/mass-block-twitter/eaghpebepefbcadjdppjjopoagckdhej)
 
-- **Firefox 用户**：访问  
-  [👉 Mass Block Twitter - Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/mass-block-twitter/)
+- **Firefox 用户**  
+  👉 [Mass Block Twitter - Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/mass-block-twitter/)
 
 安装完成后，浏览器工具栏会出现插件图标。  
-**更多信息请查看 Mass Block Twitter 插件的官方 GitHub 项目主页：**  
-[👉 GitHub: rxliuli/mass-block-twitter](https://github.com/rxliuli/mass-block-twitter)
+**更多信息请查看插件的官方 GitHub 项目主页：**  
+👉 [rxliuli/mass-block-twitter (GitHub)](https://github.com/rxliuli/mass-block-twitter)
 
 ---
 
-### ✅ **3. 创建审核列表（Moderation List）并导入 JSON 数据**
+### ✅ **步骤 3：创建审核列表并导入 JSON**
 1. **点击浏览器的 Mass Block Twitter 插件图标**，进入主界面  
 2. 找到 **“Moderation Lists”（审核列表）** 栏目，点击 **“Create new list”（新建审核列表）**  
 3. **自定义列表名称**（如 `中国IP账号黑名单`）及描述  
-4. 在新建的审核列表界面，选择 **“Import”** 或 **“Add Users”**  
+4. 在新建的审核列表界面，选择 **“Import”**  
 5. **选择本地已下载的 `Accounts_based_in_China-block-list.json` 文件进行导入**  
 6. 插件会自动识别并加载所有待屏蔽账号
 
 ---
 
-### ✅ **4. 订阅审核列表并批量屏蔽**
+### ✅ **步骤 4：批量屏蔽**
 - 导入完成后，页面将显示全部名单并支持批量操作  
 - 可一键 **“Block All”** 或分批拉黑所有账号（**建议分批处理防止 API 限制，单批不超过 500 账号**）  
-- 订阅该审核列表后，未来有新增黑名单账号时只需同步更新 JSON 并重新导入即可
+- 后续更新：只需下载最新 JSON 文件并重新导入即可
 
 ---
 
-## ❓ 常见问题 & 注意事项 / FAQ & Notes
+## ❓ 常见问题 / FAQ
 - **API 限制**：Twitter/X 每 15 分钟有拉黑速率限制，如名单较多建议分批操作  
-- **格式问题**：务必保证导入文件为标准 JSON 数组或对象列表，推荐直接使用本仓库文件  
+- **格式问题**：务必保证导入文件为标准 JSON 格式，推荐直接使用本仓库文件  
 - **插件升级**：如遇导入失败或功能异常请先更新插件版本  
 - **安全提醒**：所有名单均人工筛选，拉黑前可自行浏览确认是否有误伤  
 
 ---
 
+## 🔗 相关资源
