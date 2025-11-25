@@ -16,7 +16,7 @@
 
 ## 📝 更新日志 / Changelog
 
-- 北京时间2025/11/25/21:00 名单列表已更新至 **9415 个账号**
+- 北京时间晚9点名单列表已更新至 **9415 个账号**
 
 ---
 
@@ -84,6 +84,38 @@
 
 ---
 
+## 🛠 使用 Twitter/X Glass Great Wall 工具
+
+[Twitter/X Glass Great Wall](https://greasyfork.org/en/scripts/556758-twitter-x-glass-great-wall) 是一个用户脚本，旨在帮助用户优化 X（Twitter）体验，突破部分访问限制并增强界面功能。
+
+### ✅ 功能简介
+
+- 绕过部分网络限制，提升加载速度
+- 优化界面交互，改善使用体验
+
+### ✅ 安装步骤
+
+1. **安装 Tampermonkey 插件**（如果尚未安装）：
+   - [Tampermonkey - Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Tampermonkey - Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+
+2. **访问脚本页面**：
+   👉 [Twitter/X Glass Great Wall - GreasyFork](https://greasyfork.org/en/scripts/556758-twitter-x-glass-great-wall)
+
+3. 点击 **“Install this script”** 按钮完成安装。
+
+### ✅ 使用方法
+
+- 安装完成后，确保 Tampermonkey 已启用该脚本
+- 打开或刷新 [Twitter/X](https://x.com) 页面，脚本将自动生效
+
+### ⚠️ 注意事项
+
+- 该脚本仅在支持用户脚本的浏览器环境下运行（需安装 Tampermonkey）
+- 请确保脚本来源可信，避免安全风险
+
+---
+
 ## ❓ 常见问题 / FAQ
 
 - **API 限制**：Twitter/X 每 15 分钟有拉黑速率限制，如名单较多建议分批操作  
@@ -111,6 +143,7 @@
 - [Mass Block Twitter - Chrome Web Store](https://chromewebstore.google.com/detail/mass-block-twitter/eaghpebepefbcadjdppjjopoagckdhej)
 - [Mass Block Twitter - Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/mass-block-twitter/)
 - [Mass Block Twitter 官方 GitHub 项目主页](https://github.com/rxliuli/mass-block-twitter)
+- [Twitter/X Glass Great Wall - GreasyFork](https://greasyfork.org/en/scripts/556758-twitter-x-glass-great-wall)
 - [Twitter/X 官方帮助中心](https://help.twitter.com/)
 - [JSON 文件格式规范](https://www.json.org/json-en.html)
 
