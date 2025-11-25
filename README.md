@@ -1,6 +1,6 @@
 # OneClickBlock-X-Propaganda-CN
 
-> **一键屏蔽中国 IP 直连“狱友”与大外宣账号**  
+> **一键屏蔽Twitter/X 中国 IP 直连“狱友”与大外宣账号**  
 > A one-click solution to mass-block CN IP-linked propaganda and "prison-mate" accounts on Twitter/X.
 
 ---
