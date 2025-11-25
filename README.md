@@ -7,10 +7,16 @@
 
 ## 📖 项目介绍 / Introduction
 
-本项目账号屏蔽列表文件基于 https://pluto0x0.github.io/X_based_china/ 生成，特此表示感谢。
-
 本项目提供一个专门针对 **中国 IP 直连的大外宣与“狱友”账号** 的 Twitter/X 大规模屏蔽方案。  
 你只需下载本仓库提供的 **账号列表 JSON 文件**，并配合 **Mass Block Twitter 插件**，即可一键拉黑这些账号，有效清理时间流与评论区环境。
+
+本项目账号屏蔽列表文件基于 https://pluto0x0.github.io/X_based_china/ 生成，特此表示感谢。
+
+---
+
+## 📝 更新日志 / Changelog
+
+- 北京时间晚9点名单列表已更新至 **9415 个账号**
 
 ---
 
